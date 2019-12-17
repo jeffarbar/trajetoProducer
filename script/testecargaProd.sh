@@ -1,0 +1,1 @@
+curl -d '{"dtCriacao":"2019-12-02 20:10:56","identificadorDispositivo":"sdfsd6767fd","latitude":32.434534,"longitude":31.4234,"testenaoprecisa":"ola"}' -H "Content-Type:text/plain" -X POST http://13.90.255.204:8090/trajetoProducer/send/
